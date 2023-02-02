@@ -51,35 +51,6 @@
     <p>
         <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
     </p>
-    <p>
-        <strong>Special thanks to:</strong>
-    </p>
-    <p>
-        <a href="https://oss.capital/">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
-            </div>
-            <div>
-                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
-            </div>
-        </a>
-    </p>
-    <br />
-    <p>
-        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
-            <div>
-                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
-            </div>
-            <div>
-                <p>
-                    <strong>Dev environments built for the cloud</strong>
-                </p>
-            </div>
-            <div>
-                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
-            </div>
-        </a>
-    </p>
     <hr />
 </div>
 
@@ -244,7 +215,6 @@ Data Structure ទាំងអស់ដែលខ្ញុំធ្លាប់�
 
 - [ ] [ABC: តែងតែសរសេរកូដ](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [ការប្រេីប្រាស់ក្តារខៀន](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [ការប្រេីប្រាស់ក្តារខៀនមានប្រសិទ្ធិភាពក្នុងពេលសម្ភាសន៍កម្មវិធី](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [ជ្រើសរើសបុគ្គលិកជំនាញបច្ចេកវិទ្យា](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] វិធីរកការងារនៅក្រុមហ៊ុនធំ ៤៖
     - [ ] [របៀបរកការងារធ្វើនៅក្រុមហ៊ុនធំ ៤ - Amazon, Facebook, Google និង Microsoft (មានវីដេអូ)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -1276,7 +1246,7 @@ Graphs អាចត្រូវបានប្រើដើម្បីបង្�
 
 - [ ] Series of 2-3 minutes short subject videos (23 វីដេអូ)
     - [វីដេអូ](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (18 វីដេអូ):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (38 វីដេអូ):
     - [វីដេអូ](https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ)
 - [ ] [វីដេអូ Sedgewick - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [វីដេអូ Sedgewick - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
